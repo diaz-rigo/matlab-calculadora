@@ -28,5 +28,3 @@
 ¡Que disfrutes calculando! 🚀
 
 --- 
-
-¿Qué te parece esta versión?
